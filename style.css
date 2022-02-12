@@ -16,7 +16,7 @@
 }
 
 .qr_card{
-    max-width: 400px;
+    max-width: 350px;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -37,6 +37,7 @@ img{
 h1{
     font-size: 26px;
     padding: 15px 10px;
+    color: hsl(218, 44%, 22%);
 }
 
 .texts p {
